@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8064'
     url: http://www.gutenberg.org/2009/agents/8064
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18491#Lettre-relative---l-organisation-des-postes-et-relais
 gutenberg_bookshelf:
 - FR Services publics
 - The Philatelic Digital Library Project
